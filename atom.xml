@@ -213,9 +213,9 @@ git rm -r --cached .idea
 6 ipconfig /flushdns //清除dns缓存
 &lt;/code&gt;&lt;/pre&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="笔记" scheme="http://tangsx.com/categories/web/note/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="笔记" scheme="http://tangsx.com/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="命令" scheme="http://tangsx.com/tags/%E5%91%BD%E4%BB%A4/" />
         <updated>2020-12-31T16:00:00.000Z</updated>
@@ -319,9 +319,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -369,9 +369,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -435,9 +435,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -511,9 +511,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -560,9 +560,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -635,9 +635,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -759,9 +759,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -812,9 +812,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -897,9 +897,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -955,9 +955,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -1037,9 +1037,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -1283,9 +1283,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -1351,9 +1351,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -1424,9 +1424,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -1497,9 +1497,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 深入系列预计写十五篇左右，旨在帮大家捋顺 JavaScript 底层知识，重点讲解如原型、作用域、执行上下文、变量对象、this、闭包、按值传递、call、apply、bind、new、继承等难点概念。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js深入系列文章" scheme="http://tangsx.com/categories/web/js%E6%B7%B1%E5%85%A5%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <category term="进阶" scheme="http://tangsx.com/tags/%E8%BF%9B%E9%98%B6/" />
@@ -1563,9 +1563,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 专题系列预计写二十篇左右，主要研究日常开发中一些功能点的实现，比如防抖、节流、去重、类型判断、拷贝、最值、扁平、柯里、递归、乱序、排序等，特点是研 (chao) 究 (xi) underscore 和 jQuery 的实现方式。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js专题系列文章" scheme="http://tangsx.com/categories/web/js%E4%B8%93%E9%A2%98%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <updated>2020-06-19T16:00:00.000Z</updated>
@@ -1647,9 +1647,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 专题系列预计写二十篇左右，主要研究日常开发中一些功能点的实现，比如防抖、节流、去重、类型判断、拷贝、最值、扁平、柯里、递归、乱序、排序等，特点是研 (chao) 究 (xi) underscore 和 jQuery 的实现方式。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js专题系列文章" scheme="http://tangsx.com/categories/web/js%E4%B8%93%E9%A2%98%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <updated>2020-06-18T16:00:00.000Z</updated>
@@ -1717,9 +1717,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 专题系列预计写二十篇左右，主要研究日常开发中一些功能点的实现，比如防抖、节流、去重、类型判断、拷贝、最值、扁平、柯里、递归、乱序、排序等，特点是研 (chao) 究 (xi) underscore 和 jQuery 的实现方式。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js专题系列文章" scheme="http://tangsx.com/categories/web/js%E4%B8%93%E9%A2%98%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <updated>2020-06-17T16:00:00.000Z</updated>
@@ -1828,9 +1828,9 @@ git rm -r --cached .idea
 &lt;p&gt;JavaScript 专题系列预计写二十篇左右，主要研究日常开发中一些功能点的实现，比如防抖、节流、去重、类型判断、拷贝、最值、扁平、柯里、递归、乱序、排序等，特点是研 (chao) 究 (xi) underscore 和 jQuery 的实现方式。&lt;/p&gt;
 &lt;p&gt;如果有错误或者不严谨的地方，请务必给予指正，十分感谢。如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。&lt;/p&gt;
 </content>
-        <category term="web前端" scheme="http://tangsx.com/categories/web/" />
+        <category term="前端" scheme="http://tangsx.com/categories/web/" />
         <category term="js专题系列文章" scheme="http://tangsx.com/categories/web/js%E4%B8%93%E9%A2%98%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/" />
-        <category term="web" scheme="http://tangsx.com/tags/web/" />
+        <category term="前端" scheme="http://tangsx.com/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="文章" scheme="http://tangsx.com/tags/%E6%96%87%E7%AB%A0/" />
         <category term="js" scheme="http://tangsx.com/tags/js/" />
         <updated>2020-06-16T16:00:00.000Z</updated>
